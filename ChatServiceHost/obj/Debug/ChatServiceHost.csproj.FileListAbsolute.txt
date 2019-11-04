@@ -1,0 +1,13 @@
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceLibrary.dll
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\ChatServiceLibrary.dll.config
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\bin\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\obj\Debug\ChatServiceHost.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\obj\Debug\ChatServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\obj\Debug\ChatServiceHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\obj\Debug\ChatServiceHost.exe
+C:\Users\kathl\Dropbox\Projects\ChatDemo\ChatServiceHost\obj\Debug\ChatServiceHost.pdb
