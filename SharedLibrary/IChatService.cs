@@ -53,8 +53,9 @@ namespace SharedLibrary
 
         /// <summary>
         /// GetMessageHistory
-        /// Limited to Last 100 Messages
-        /// This will be stored as a Queue on the Service
+        /// Returns the chat message history as a list
+        /// Limited to Last X (defined on the service) Chat Messages
+        /// This is stored as a Queue on the Service
         /// </summary>
         /// <param name="messages">a list (string) of formatted messages</param>
         [OperationContract]

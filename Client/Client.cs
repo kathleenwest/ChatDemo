@@ -526,6 +526,17 @@ namespace Client
             }
         } // end of method
 
+        /// <summary>
+        /// On Form Exit
+        /// Logs off a user from the service
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void frmMain_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            LogOff();
+        }
+
         #endregion methods
 
     } // end of class

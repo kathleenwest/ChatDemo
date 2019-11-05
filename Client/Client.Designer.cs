@@ -139,6 +139,7 @@
             this.MaximizeBox = false;
             this.Name = "frmMain";
             this.Text = "Client Chat Window";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmMain_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 
